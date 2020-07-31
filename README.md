@@ -20,7 +20,7 @@
 4. Output will be stored as XML in the same application root directory: 
   Example:
     source_XML_1_EN.xml
-    source_XML_1_EN.xml
+    source_XML_2_EN.xml
     
     source_XML_1_JP.xml
     source_XML_2_JP.xml
