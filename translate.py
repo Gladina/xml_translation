@@ -232,7 +232,7 @@ for tag in tree.iter():
             #print("NOT exists key")
 
 xmlstring = ET.tostring(tree).decode("utf-8", errors="ignore")
-with open("output/"+source_file_name_one, "w") as f:
+with open(source_file_name_one, "w") as f:
     f.write(xmlstring)
     print("------------------------------------ TRANSLATED -----------------------------------------------")
     print("Done. File by name "+source_file_name_one+" has been created in the application root directory.")
@@ -410,7 +410,7 @@ for tag in tree.iter():
             #print("NOT exists key")
 
 xmlstring = ET.tostring(tree).decode("utf-8", errors="ignore")
-with open("output/"+source_file_name_two, "w") as f:
+with open(source_file_name_two, "w") as f:
     f.write(xmlstring)
     print("------------------------------------ TRANSLATED -----------------------------------------------")
     print("Done. File by name "+source_file_name_two+" has been created in the application root directory.")
