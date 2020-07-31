@@ -24,3 +24,5 @@
     
     source_XML_1_JP.xml
     source_XML_2_JP.xml
+  
+    NOTE: You may open the output files in chrome or any browser to view the xml data.
