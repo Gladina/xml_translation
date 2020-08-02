@@ -1,7 +1,7 @@
 # xml_translation
 1. Pre-requists:
-  1. Python 3x
-  2. Libraries / Dependencies
+  i. Python 3x
+  ii. Libraries / Dependencies
       numpy==1.19.1
       pandas==1.1.0
       python-dateutil==2.8.1
@@ -9,7 +9,7 @@
       six==1.15.0
       xlrd==1.2.0
       xmltodict==0.12.0
-  3. Source files such as lookup.xlsx and translate.py are the heart of this task.
+  iii. Source files such as lookup.xlsx and translate.py are the heart of this task.
       
 2. Create a virtual environment: virtualenv <venv_name>
   1. Activate Virtual Environment: activate <venv_name> or cd scripts\ and activate
