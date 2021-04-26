@@ -5,6 +5,8 @@ import json
 import xmltodict
 import pandas
     
+Hello = "value"
+
 while True:
   try:
     print("\n")
